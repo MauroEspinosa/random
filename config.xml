@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.mauroespinosa.random"
+    versionCode = "1"
+    version     = "1.0.0" >
+
+  <name>Random</name>
+
+  <description>
+      Si no sabes que elegir esa app te ayudara a hacerlo
+  </description>
+
+  <author email="maauurooxd@hotmail.com">
+      Mauro Espinosa 
+  </author>
+
+</widget>
