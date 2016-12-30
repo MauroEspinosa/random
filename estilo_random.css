@@ -29,7 +29,7 @@ h1.titulo{
   justify-content: center;
   margin:auto;
   height: 150px;
-  width: 40%;
+  width: 200px;
   color: white;
   background-color: rgba(255, 255, 255, 0.3);
   font-family: 'Josefin Slab', serif;
@@ -104,8 +104,7 @@ div#todo{
 }
 
 div#palabras{
-  height: 200px;
-  width:250px;
+  width:220px;
   margin: auto;
   overflow: scroll;
   margin-top: 40px;
