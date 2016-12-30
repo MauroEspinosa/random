@@ -105,6 +105,7 @@ div#todo{
 
 div#palabras{
   width:220px;
+  height: 200px;
   margin: auto;
   overflow: scroll;
   margin-top: 40px;
